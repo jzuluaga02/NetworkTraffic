@@ -2,6 +2,8 @@
 Advanced Network Traffic Analysis: Efficient Data Processing and Machine Learning Insights
 
 
+Network Traffic Data Processing Project:
+
 1. Data Preparation and Cleaning
 
 Efficiently processed an extensive and unstructured network traffic dataset.
@@ -18,6 +20,13 @@ Implemented Kafka for establishing a robust producer-consumer model.
 Significantly enhanced data processing dynamics.
 Improved overall efficiency and performance in data handling.
 This project highlights proficiency in handling extensive datasets, exploring unstructured data, and optimizing data processing through advanced tools and techniques.
+
+
+
+
+
+
+
 
 
 
